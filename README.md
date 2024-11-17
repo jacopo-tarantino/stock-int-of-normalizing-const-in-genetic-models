@@ -19,3 +19,15 @@ the optimal approach for the K-allele model.
 
 The work has been supervised by Professor Matteo Ruggiero
 
+## Files
+> `project.py`: contains the full  thesis pdf.
+> 
+> `methods.py`: contains the AIS, LIS methodologies, the necessary markov chains (MH) and the respective computations corrections
+>
+> `simulations.py`: contains the MC integrations with Importance sampling
+>
+> `stoch_int_to_run.ipynb`: runs AIS and LIS, evaluating and comparing their accucary and computational cost
+>
+> `nested_int_to_run.ipynb`: defines and runs Nested Analytical Integration 
+
+
